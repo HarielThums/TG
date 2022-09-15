@@ -14,7 +14,7 @@ Possuo uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-p
 #### ***[Link do Github](https://github.com/HarielThums/ProjetoIntegrador01)***
 
 #### **Parceiro**:
-- O parceiro neste projeto foi a FATEC/SJC, fazendo o papel de cliente tivemos o Prof. Antonio Egydio.
+- O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, fazendo o papel de cliente tivemos o Prof. Antonio Egydio.
 
 #### **Problema e solução**:
 - O cliente desejava vender atraves de um e-commerce conteúdos acadêmicos voltados para a área de técnologia com livros, pdfs e vídeo aulas. Como solução foi criado o site Elite Academy os clientes poderiam visualizar em listas os conteúdos disponiveis alem de eventuais promoções disponiveis e em caso de interesse se cadastrar e fazer a compra desses materiais.
