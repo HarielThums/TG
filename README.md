@@ -45,7 +45,9 @@ Possuo uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-p
 
 #### Soft Skills
 - Trabalho em equipe
-	- Fomos colocados 
+	- Fomos colocados em situações de pressão e o trabalho em equipe e colaboração com o time nos permitiu entregar um produto de maior qualidade.
+- Colaboração
+	- Pude auxiliar e me desenvolver juntamente com meus colegas, dando juntos os primeiros passos nas tecnologias utilizadas nesse projeto.
 
 ![eliteAcademyGif](./utils/eliteAcademy.gif)
 
