@@ -10,7 +10,8 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 ### Em 2020-2 - ***Elite Academy***:
 - **Primeiro semestre**
 
-![eliteAcademyLogo](./utils/eliteAcademy.png)
+<img src="./utils/eliteAcademy.png" alt="eliteAcademy.png" style="width:200px;"/>
+
 #### ***[Link do Github](https://github.com/HarielThums/ProjetoIntegrador01)***
 
 #### **Parceiro**:
@@ -49,7 +50,6 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 	- Pude auxiliar e me desenvolver juntamente com meus colegas, dando juntos os primeiros passos nas tecnologias utilizadas nesse projeto.
 
 ![eliteAcademyGif](./utils/eliteAcademy.gif)
-
 
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
