@@ -3,7 +3,7 @@
 ## Introdução:
 
 Estou cursando Análise e Desenvolvimento de Sistemas na Fatec/SJC, atuo atualmente como Desenvolvedor Backend (Node.js | NestJS | TypeScript | MySQL) e antes disso tive uma passagem breve como Desenvolvedor fullstack Jr. (Angular | Node.js | TypeScript | MongoDB), entrei no mercado de desenvolvimento no meu segundo semestre na Fatec, e desde então venho evoluindo e buscando mostrar meu trabalho!
-Possuo uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-prisma-querybuilder)), que foi criada com o objetivo de auxiliar outros desenvolvedor e outros projetos, foi uma realização muito gratificante e sinto que foi uma pequena forma de retribuir tudo que a comunidade faz por nós desenvolvedores.
+Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-prisma-querybuilder)), que foi criada com o objetivo de auxiliar outros desenvolvedor e outros projetos, foi uma realização muito gratificante e sinto que foi uma pequena forma de retribuir tudo que a comunidade faz por nós desenvolvedores.
 
 ## Meus Projetos:
  
@@ -30,8 +30,8 @@ Possuo uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-p
 
 #### Contribuições Pessoais:
 
-- Fui responsável por fazer a parte lógica do WordPress, com as configurações e painel de administrador, upload dos conteúdos, navegação e autenticação
-- Fui responsável pela parte de criação das telas e da estilização seguindo os requisitos do cliente
+- Fui responsável por fazer a parte lógica do WordPress, gerenciamento dos plugins, configurações e painel de administrador, upload dos conteúdos (vídeos, pdfs e livros), navegação entre as págianas e autenticação do usuário.
+- Fui responsável pela parte de criação das telas e da estilização seguindo os requisitos do cliente, buscando entregar uma interface simples e elegante.
 
 #### Hard Skills:
 
@@ -41,7 +41,6 @@ Possuo uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-p
 	- Sei fazer com autonomia;
 - CSS 
 	- Sei fazer com ajuda;
-
 
 #### Soft Skills
 - Trabalho em equipe
