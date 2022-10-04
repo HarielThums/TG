@@ -2,8 +2,8 @@
 
 ## Introdução:
 
-Estou cursando Análise e Desenvolvimento de Sistemas na Fatec/SJC, atuo atualmente como Desenvolvedor Backend (Node.js | NestJS | TypeScript | MySQL) e antes disso tive uma passagem breve como Desenvolvedor fullstack Jr. (Angular | Node.js | TypeScript | MongoDB), entrei no mercado de desenvolvimento no meu segundo semestre na Fatec, e desde então venho evoluindo e buscando mostrar meu trabalho!
-Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-prisma-querybuilder)), que foi criada com o objetivo de auxiliar outros desenvolvedor e outros projetos, foi uma realização muito gratificante e sinto que foi uma pequena forma de retribuir tudo que a comunidade faz por nós desenvolvedores.
+Estou cursando Análise e Desenvolvimento de Sistemas na Fatec/SJC, atuo atualmente como Desenvolvedor Backend (Node.js | NestJS | TypeScript | MySQL) e antes disso tive uma passagem breve como Desenvolvedor fullstack Jr. (Angular | Node.js | TypeScript | MongoDB). Entrei no mercado de desenvolvimento no meu segundo semestre na Fatec, e desde então venho evoluindo e buscando mostrar meu trabalho!
+Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-prisma-querybuilder)), que foi criada com o objetivo de auxiliar outros desenvolvedores e outros projetos. Foi uma realização muito gratificante e sinto que foi uma pequena forma de retribuir tudo que a comunidade faz por nós desenvolvedores.
 
 ## Meus Projetos:
  
