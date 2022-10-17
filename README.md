@@ -48,12 +48,12 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - Colaboração
 	- Pude auxiliar e me desenvolver juntamente com meus colegas, dando juntos os primeiros passos nas tecnologias utilizadas nesse projeto.
 
-![eliteAcademyGif](./utils/eliteAcademy.gif)
+<img src="./utils/eliteAcademy.gif" alt="eliteAcademy.gif" style="width:800px;"/>
 
 ### Em 2021-1 - ***GSWatcher***:
 - **Segundo semestre**
 
-![gswatcherLogo](./utils/gswatcher-logo.gif)
+<img src="./utils/gswatcherLogo.gif" alt="gswatcherLogo.gif" style="width:250px;"/>
 
 #### ***[Link do Github](https://github.com/vinicius-hso/api-fatec-2s-gswatcher)***
 
@@ -78,6 +78,7 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - Fui responsável por fazer a parte do backend do produto, estruturando e gerenciando as rotas, middleware de autenticação, queries para o banco de dados (neste projeto não foi utilizado um ORM, as queries foram feitas com o drive nativo do Postgres), 
 - Fui responsável por fazer a modelagem e implementação do banco de dados, estruturando e criando as tabelas. 
 - Fui responsável por implementar e configurar o serviço de envio de email (utilizando o nodemailer).
+- Fui responsável pelo gerenciamento e manutenção do deploy e ambiente de produção.
 
 #### Hard Skills:
 - Node.js
@@ -85,7 +86,7 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - JavaScript
 	- Sei utilizar com autonomia
 - PostgresSQL
-	- Sei fazer com autonomia.
+	- Sei utilizar com autonomia.
 
 #### Soft Skills
 - Trabalho em equipe
@@ -93,7 +94,65 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - Colaboração
 	- Tivemos sessões de pair programming onde trabalhavamos juntos, tentando solucionar os problemas e auxiliarmos uns ao outros na solidificação dos conhecimentos.
 
-![gsWatcherDesktop](./utils/gswatcher-desktop.gif)
+<img src="./utils/gswatcherDesktop.gif" alt="gswatcherDesktop.gif" style="width:800px;"/>
+
+### Em 2021-2 - ***Target CRM***:
+- **Terceiro semestre**
+
+<img src="./utils/targetcrmLogo.png" alt="targetcrmLogo.png" style="width:300px;"/>
+
+#### ***[Link do Github](https://github.com/HarielThums/api-sem3-target-crm)***
+
+#### **Parceiro**:
+- 
+
+#### **Problema e solução**:
+- O problema proposto foi de desenvolver uma Aplicação Web de Customer Relationship Management (Gestão de Relacionamento com o Cliente) para organização dos processos comerciais, oferecendo suporte adequado às áreas de vendas e negócios para a empresa parceira. A solução proposta foi a de uma aplicação capaz de organizar e editar os contatos, relizar cadastros e gestão das pipelines, cadastro e gestão das negociações, monitoramento e acompanhamento de clientes, importação de contatos via excel e exibir todos esses dados em um dashboard.
+
+#### Tecnologias Utilizadas:
+
+- Frontend
+	- React
+	- Next.js
+	- TypeScript
+	- HTML/CSS
+- Backend
+	- Node.js
+	- TypeScript
+	- TypeORM
+	- Docker
+	- Jest
+- Database
+	- PostgresSQL
+
+#### Contribuições Pessoais:
+- Fui responsável por construir o backend do produto, estruturando e gerenciando as rotas e regras de negócio, middleware de autenticação, middleware para controle de permissões, mapeamento do ORM (TypeORM) e migrations seguindo a modelagem, estruturando e criando as tabelas. 
+- Nos ambientes de desenvolvimento foi utilizado docker com objetivo de facilitar o run do time de desenvolvimento.
+- Fui responsável pelo gerenciamento e manutenção do deploy e ambiente de produção.
+- Fui responsável pela criação dos testes de integração realizados (100% do backend foi testado).
+
+#### Hard Skills:
+- Node.js
+	- Sei fazer com autonomia.
+- TypeScript
+	- Sei utilizar com autonomia
+- TypeORM
+	- Sei utilizar com autonomia.
+- PostgresSQL
+	- Sei utilizar com autonomia.
+- Jest
+	- Sei utilizar com autonomia.
+
+#### Soft Skills
+- Trabalho em equipe
+	- Neste projeto tivemos que nos aprodundar mais em conhecimentos técnicos e o trabalho em equipe nos proporcionou maior agilidade e entendimento dos problemas e soluções desenvolvidos.
+- Colaboração
+	- Tivemos sessões de pair programming onde trabalhavamos juntos, tentando solucionar os problemas e auxiliarmos uns ao outros na solidificação dos conhecimentos.
+
+
+<img src="./utils/targetcrmGif1.gif" alt="targetcrmGif1.gif" style="width:500px;"/>
+<img src="./utils/targetcrmGif2.gif" alt="targetcrmGif2.gif" style="width:500px;"/>
+
 
 ## Meus Principais Conhecimentos
 Meus principais conhecimentos estão relacionados ao desenvolvimento Backend, área que atuo e que dedico meus estudos buscando me aprofundar e solidificar os conceitos e boas práticas cada vez mais.
