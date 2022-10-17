@@ -35,7 +35,6 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - Fui responsável pela parte de criação das telas e da estilização seguindo os requisitos do cliente, buscando entregar uma interface simples e elegante.
 
 #### Hard Skills:
-
 - Wordpress 
 	- Sei fazer com autonomia;
 - HTML 
@@ -51,8 +50,60 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 
 ![eliteAcademyGif](./utils/eliteAcademy.gif)
 
+### Em 2021-1 - ***GSWatcher***:
+- **Segundo semestre**
+
+![gswatcherLogo](./utils/gswatcher-logo.gif)
+
+#### ***[Link do Github](https://github.com/vinicius-hso/api-fatec-2s-gswatcher)***
+
+#### **Parceiro**:
+- O parceiro neste projeto foi a empresa [GSW](https://www.gsw.com.br/) que atua a mais de 29 anos na área de desenvolvimento de softwares, especializada em gerar soluções para o gerenciamento, controle de processos e negócios.
+
+#### **Problema e solução**:
+- O problema proposto foi de desenvolver uma solução que unifique e trate os dados gerados pelos atuais sistemas de gerenciamento de projetos da empresa e apresente as informações da base de dados em um Dashboard para o acompanhamento do desenvolvimento dos projetos. A solução proposta foca em aproximar Diretores e projetos, proporcionando uma visão mais detalhada e atualizada do que está realmente acontecendo, fornecendo insights baseados em dados reais sobre seus projetos e facilitando a tomada de decisões. Através de uma Aplicação Web oferecemos a visualização de informações em forma de gráficos a respeito de seus projetos.
+
+#### Tecnologias Utilizadas:
+
+- Frontend
+	- HTML/CSS/JavaScript
+	- Vue.js
+- Backend
+	- Node.js
+	- JavaScript
+- Database
+	- PostgresSQL
+
+#### Contribuições Pessoais:
+- Fui responsável por fazer a parte do backend do produto, estruturando e gerenciando as rotas, middleware de autenticação, queries para o banco de dados (neste projeto não foi utilizado um ORM, as queries foram feitas com o drive nativo do Postgres), 
+- Fui responsável por fazer a modelagem e implementação do banco de dados, estruturando e criando as tabelas. 
+- Fui responsável por implementar e configurar o serviço de envio de email (utilizando o nodemailer).
+
+#### Hard Skills:
+- Node.js
+	- Sei fazer com autonomia.
+- JavaScript
+	- Sei utilizar com autonomia
+- PostgresSQL
+	- Sei fazer com autonomia.
+
+#### Soft Skills
+- Trabalho em equipe
+	- Neste projeto tivemos que nos aprodundar mais em conhecimentos técnicos e o trabalho em equipe nos proporcionou maior agilidade e entendimento dos problemas e soluções desenvolvidos.
+- Colaboração
+	- Tivemos sessões de pair programming onde trabalhavamos juntos, tentando solucionar os problemas e auxiliarmos uns ao outros na solidificação dos conhecimentos.
+
+![gsWatcherDesktop](./utils/gswatcher-desktop.gif)
+
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Meus principais conhecimentos estão relacionados ao desenvolvimento Backend, área que atuo e que dedico meus estudos buscando me aprofundar e solidificar os conceitos e boas práticas cada vez mais.
+
+Trabalho com Node.js utilizando o framework Nest.js, mas possuo experiência com os frameworks Express e Koa tambem, atualmente como banco de dados utilizo MySQL, Redis e Firebase (storage e firestore) e tenho conhecimentos em PostgresSQL e MongoDB.
+Como ORMs estou trabalhando com o Prisma, este foi o ORM que me motivou a publicar a biblioteca Open source mencionada anteriormente ([LINK](https://www.npmjs.com/package/nestjs-prisma-querybuilder)) mas tambem possuo experiência com o TypeORM e Mongoose.
+
+Já fiz algumas integrações com serviços de terceiros (Google (Geocode, analytics), envio de Email, envio de SMS, controle do Cloudflare, controle do Nginx e mais...), gerenciamento de relatórios (excel, pdf), controle de fila, jobs, middlewares, guards e implementação de regras de segurança.
+
+Tenho experiência com testes de integração e unitários utilizando os frameworks Jest e Mocha do Node.js.
 
 ## Contatos
 __Mídias sociais:__
