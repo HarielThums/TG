@@ -104,7 +104,7 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 #### ***[Link do Github](https://github.com/HarielThums/api-sem3-target-crm)***
 
 #### **Parceiro**:
-- 
+- O parceiro neste projeto foi a empresa [Ionic Health](https://pt-br.ionic.health/) empresa especializada em inovação e transformação digital para a saúde. Desenvolvendo soluções que automatizam, monitoram e teleoperam equipamentos clínicos.
 
 #### **Problema e solução**:
 - O problema proposto foi de desenvolver uma Aplicação Web de Customer Relationship Management (Gestão de Relacionamento com o Cliente) para organização dos processos comerciais, oferecendo suporte adequado às áreas de vendas e negócios para a empresa parceira. A solução proposta foi a de uma aplicação capaz de organizar e editar os contatos, relizar cadastros e gestão das pipelines, cadastro e gestão das negociações, monitoramento e acompanhamento de clientes, importação de contatos via excel e exibir todos esses dados em um dashboard.
