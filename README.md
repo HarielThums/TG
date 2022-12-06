@@ -3,6 +3,7 @@
 ## Introdução
 
 Estou cursando Análise e Desenvolvimento de Sistemas na Fatec/SJC, atuo atualmente como Desenvolvedor Backend (Node.js | NestJS | TypeScript | MySQL) e antes disso tive uma passagem breve como Desenvolvedor fullstack Jr. (Angular | Node.js | TypeScript | MongoDB). Entrei no mercado de desenvolvimento no meu segundo semestre na Fatec, e desde então venho evoluindo e buscando mostrar meu trabalho!
+
 Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestjs-prisma-querybuilder)), que foi criada com o objetivo de auxiliar outros desenvolvedores e outros projetos. Foi uma realização muito gratificante e sinto que foi uma pequena forma de retribuir tudo que a comunidade faz por nós desenvolvedores.
 
 ## Meus Projetos
@@ -208,6 +209,10 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 - Fui responsável pelo gerenciamento e manutenção do deploy e ambiente de produção.
 - Fui responsável por fazer a integração do backend com API de terceiros (AGRITEC e IMEA, IBGE)
 
+  #### <details><summary>Integrações</summary>	<img src="./utils/eSojaGif4.gif" alt="eSojaGif4.gif" />
+</details>
+
+
 #### Hard Skills
 
 - Node.js
@@ -237,6 +242,78 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 	<img src="./utils/eSojaGif3.gif" alt="eSojaGif3.gif" style="width:150px; padding: 10px"/>
 	<img src="./utils/eSojaGif2.gif" alt="eSojaGif2.gif" style="width:150px; padding: 10px"/>
 </div>
+
+### Em 2022-2 - *__eCidadao__*
+
+- __Quinto semestre__
+
+<img src="./utils/eCidadaoLogo.png" alt="eCidadaoLogo.png" style="width:300px;"/>
+
+#### ***[Link do Github](https://github.com/cluster-8/eCidadao)***
+
+#### __Parceiro__
+
+- O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, fazendo o papel de cliente tivemos o Prof. Gerson Penha.
+
+#### __Problema e solução__
+
+- O desafio do projeto é criar um aplicativo colaborativo para a sociedade e através desse aplicativo os usuários poderão reportar "problemas" da cidade para a "prefeitura". Podendo tirar foto do problema, adicionar uma descrição, a localização do problema para que a prefeitura possa saber sobre o problema e ir consertá-lo.
+
+#### Tecnologias Utilizadas
+
+- Frontend
+  - ReactNative
+  - Expo
+  - TypeScript
+  - HTML/CSS
+- Backend
+  - Node.js
+  - Nest.js
+  - TypeScript
+  - Prisma
+- Database
+  - MongoDB
+  - Redis
+
+#### Contribuições Pessoais
+
+- Fui responsável por construir o backend do produto, estruturando e gerenciando as rotas e regras de negócio, middleware de autenticação, middleware para controle de permissões, mapeamento do ORM (Prisma), estruturando e criando as tabelas.
+- Fui responsável pelo gerenciamento e manutenção do deploy e ambiente de produção.
+- Fui responsável por fazer a integração do backend com API do Google 'Geocode'.
+- Fui responsável pela implementação da criptografia dos dados de usuários e garantia de anonimato dos dados em caso de solicitação de deleção de conta pelo usuário.
+
+#### Hard Skills
+
+- Node.js
+  - Sei fazer com autonomia.
+- Nest.js
+  - Sei fazer com autonomia.
+- TypeScript
+  - Sei utilizar com autonomia
+- Prisma
+  - Sei utilizar com autonomia.
+- MongoDB
+  - Sei utilizar com autonomia.
+- Redis
+  - Sei utilizar com autonomia.
+
+#### Soft Skills
+
+- Pensamento analítico
+  - Este projeto foi um desafio maior, então foi necessário pensamento analítico e comunicação desde a apresentação do tema até a entrega final do produto, levantando mais requisitos a cada sprint, proporcionando ao cliente um produto mais robusto e que superou as espectativas.
+- Colaboração
+  - Houveram momentos onde surgiam problemas mais complexos e tivemos que trabalhar juntos, tentando solucionar e entregar o melhor resultado possível.
+- Criatividade
+	- Tivemos como equipe que pensar de forma diferente na realização deste projeto, visto que foi uma temática nova e com maiores desafios, então foi necessário criatividade na resolução do problema e estruturação do produto.
+
+<div>
+	<img src="./utils/ecidadaoGif1.gif" alt="ecidadaoGif1.gif" style="width:150px; padding: 10px"/>
+	<img src="./utils/ecidadaoGif2.gif" alt="ecidadaoGif2.gif" style="width:150px; padding: 10px"/>
+	<img src="./utils/ecidadaoGif3.gif" alt="ecidadaoGif3.gif" style="width:150px; padding: 10px"/>
+</div>
+
+<img src="./utils/ecidadaoGif4.gif" alt="ecidadaoGif4.gif"/>
+
 
 ## Meus Principais Conhecimentos
 
