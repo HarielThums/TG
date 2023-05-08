@@ -314,6 +314,71 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 
 <img src="./utils/ecidadaoGif4.gif" alt="ecidadaoGif4.gif"/>
 
+### Em 2023-1 - *__eFinance__*
+
+- __Sexto semestre__
+
+<img src="./utils/eFinanceLogo.png" alt="eFinanceLogo.png" style="width:300px;"/>
+
+#### ***[Link do Github](https://github.com/cluster-8/eFinance)***
+
+#### __Parceiro__
+
+- O parceiro neste projeto foi *.
+
+#### __Problema e solução__
+
+- O desafio do projeto é criar um aplicativo colaborativo para a sociedade e através desse aplicativo os usuários poderão reportar "problemas" da cidade para a "prefeitura". Podendo tirar foto do problema, adicionar uma descrição, a localização do problema para que a prefeitura possa saber sobre o problema e ir consertá-lo.
+
+#### Tecnologias Utilizadas
+
+- Frontend
+  - Vue.js
+  - TypeScript
+  - HTML/CSS
+- Backend
+  - Java
+  - Spring boot
+- Scrapper/AI
+  - Python
+- Database
+  - PostgreSQL
+  - Redis
+
+#### Contribuições Pessoais
+
+- Fui responsável por construir o backend do produto, estruturando e gerenciando as rotas e regras de negócio.
+- Fui responsável por parte do mapeamento e desenvolvimento do SQL do produto.
+- Fui responsável pelo gerenciamento e manutenção do deploy e ambiente de produção.
+- Fui responsável por parte do Scapper dos dados das APIs do 'BCB'.
+
+#### Hard Skills
+
+- Java
+  - Sei fazer com autonomia.
+- Spring boot
+  - Sei utilizar com autonomia.
+- Python
+  - Sei utilizar com autonomia
+- PostgreSQL
+  - Sei fazer com autonomia.
+- Redis
+  - Sei fazer com autonomia.
+
+#### Soft Skills
+
+- Determinação
+  - Neste projeto tivemos que busca informações relevantes e que gerassem valor ao projeto, visto que os dados são de dominio público porem não estão disponíveis de forma fácil, sendo necessário uma grande pesquisa e tratamento dos mesmos antes de ser possível exibir na aplicação.
+- Colaboração
+  - Houveram momentos onde surgiam problemas mais complexos e tivemos que trabalhar juntos, tentando solucionar e entregar o melhor resultado possível.
+- Criatividade
+	- Tivemos como equipe que pensar de forma diferente na realização deste projeto, visto que foi uma temática nova e com diferentes desafios, então foi necessário criatividade na resolução do problema e desenvolvimemnto da estrutura do produto.
+
+<div>
+	<img src="./utils/eFinanceGif1.gif" alt="eFinanceGif1.gif" style="width:500px; padding: 10px"/>
+	<img src="./utils/eFinanceGif2.gif" alt="eFinanceGif2.gif" style="width:500px; padding: 10px"/>
+	
+</div>
 
 ## Meus Principais Conhecimentos
 
