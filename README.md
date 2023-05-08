@@ -318,7 +318,7 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 
 - __Sexto semestre__
 
-<img src="./utils/eFinanceLogo.png" alt="eFinanceLogo.png" style="width:300px;"/>
+<img src="./utils/efinanceLogo.png" alt="efinanceLogo.png" style="width:300px;"/>
 
 #### ***[Link do Github](https://github.com/cluster-8/eFinance)***
 
