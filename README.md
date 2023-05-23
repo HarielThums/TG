@@ -324,7 +324,7 @@ Publiquei uma biblioteca open source ([Link](https://www.npmjs.com/package/nestj
 
 #### __Parceiro__
 
-- O parceiro neste projeto foi *.
+- O parceiro neste projeto foi uma empresa do setor Financeiro que oferece soluções à corporações, governos e instituições, presente em mais de 100 países e com mais de 70 anos de mercado.
 
 #### __Problema e solução__
 
